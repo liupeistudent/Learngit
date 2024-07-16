@@ -9,6 +9,3 @@ Creating a new branch is  called dev
 
 git switch -c dev
 dev2 add and push to github and create a new branch is called dev2
-
-
-push in one file and push in another 
