@@ -12,3 +12,6 @@ dev2 add and push to github and create a new branch is called dev2
 
 
 push in one file and push in another 
+revise license.rtf in another 
+Now commit and push in clone_file
+
